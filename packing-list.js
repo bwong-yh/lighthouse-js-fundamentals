@@ -14,7 +14,7 @@ for (let i = 0; i < packingList.length; i++) {
   console.log(packingList[i]);
 }
 
-// usding while loop
+// using while loop
 console.log("\nKitchen stuff to pack:");
 let i = 0;
 while (i < packingList.length) {
